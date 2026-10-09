@@ -36,7 +36,7 @@ The original TTGO T-Display and the T-Display S3 use different configurations. T
 6. Connect the board with the USB data cable, select its serial port under Tools, and click Verify, then Upload.
 7. After upload, the animation should start automatically. Observe at least two full cycles to see both the kitchen transition and changes in the regenerated plate.
 
-The original author's exact Arduino IDE, ESP32 core, and TFT_eSPI versions were not recorded in the supplied materials. The instructions identify the required packages and board setup but are not a pinned, independently retested build environment.
+The exact Arduino IDE, ESP32 core, and TFT_eSPI versions were not recorded in the supplied materials. The instructions identify the required packages and board setup but are not a pinned, independently retested build environment.
 
 Official references: [ESP32 Arduino installation](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html), [LilyGO TTGO T-Display repository](https://github.com/Xinyuan-LilyGO/TTGO-T-Display), and [TFT_eSPI Setup25](https://github.com/Bodmer/TFT_eSPI/blob/master/User_Setups/Setup25_TTGO_T_Display.h).
 
